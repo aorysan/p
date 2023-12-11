@@ -1,3 +1,3 @@
-# Dasar Pemrograman - Jobsheet 2
+Greetings!
 
-Hello, this is my first repository.
+Welcome to my repositories, strangers.
